@@ -1,5 +1,7 @@
 # Data-Analysis
 
+Analisis data menggunakan Python dan MySQL.
+
 Proyek ini bertujuan untuk analisis dan mengeksplorasi data Penjualan Walmart untuk memahami tren penjualan, perilaku pelanggan dan kinerja cabang dan mendapatkan insight tentang data penjualan Walmart.
 
 Tujuan analisis untuk identifikasi pola penjualan, evaluasi kinerja cabang, analisis kepuasan pelanggan, dan identifikasi pengoptimalan keuntungan sehingga dapat mempelajari bagaimana strategi penjualan dapat ditingkatkan dan dioptimalkan.
@@ -31,7 +33,7 @@ profit_margin
 
 
 
-# INSIGHT dan REKOMENDASI
+# Insight dan Rekomendasi
 
 
 •	Kategori produk Fashion Accessories berada di peringkat pertama sebagai kategori dengan penjualan paling laris.
