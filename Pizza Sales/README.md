@@ -1,87 +1,45 @@
-# Data-Analysis
+#Tujuan
 
-Analisis data menggunakan Python dan MySQL.
+•	Mengidentifikasi penjualan harian untuk meningkatkan penjualan
 
-Proyek ini bertujuan untuk analisis dan mengeksplorasi data Penjualan Walmart untuk memahami tren penjualan, perilaku pelanggan dan kinerja cabang dan mendapatkan insight tentang data penjualan Walmart.
+•	Mengoptimalisasi penjualan pada kategori pizza dengan kontribusi rendah
 
-Tujuan analisis untuk identifikasi pola penjualan, evaluasi kinerja cabang, analisis kepuasan pelanggan, dan identifikasi pengoptimalan keuntungan sehingga dapat mempelajari bagaimana strategi penjualan dapat ditingkatkan dan dioptimalkan.
-
-Dataset Walmart diperoleh dari Kaggle.
-Data terdiri dari 11 kolom:
-
-invoice_id
-
-Branch
-
-City
-
-category
-
-unit_price
-
-quantity
-
-date
-
-time
-
-payment_method
-
-rating
-
-profit_margin
+•	Meningkatkan pembelian dengan nilai lebih tinggi per transaksi
 
 
+#KPI
 
-# Insight dan Rekomendasi
+•	Jumlah total pesanan sebesar 21K
 
+•	Total penerimaan dari seluruh penjualan sebesar $46M
 
-•	Kategori produk Fashion Accessories berada di peringkat pertama sebagai kategori dengan penjualan paling laris.
+•	Nilai penjualan rata-rata per pesanan 2.14K
 
-Rekomendasi : Memperluas lini produk dan promosi dari Kategori Fashion Accessories.
+•	Total jumlah pizza yang terjual 50K
 
-
-
-•	Top 5 cabang yang menjual produk paling banyak adalah WALM069, WALM009, WALM058, WALM030, dan WALM074.
-
-Rekomendasi : Menambah stok di 5 cabang tersebut.
+•	Rata-rata jumlah pesanan sebanyak 2.32 pesanan
 
 
+#Insight
 
-•	Tren total penjualan berdasarkan terendah ke tertinggi dari tahun 2022, 2020, 2023, 2021, dan 2019. Tahun 2019 memiliki total penjualan tertinggi namun memiliki total transaksi yang paling rendah. Total transaksi tetinggi pada tahun 2021.
+1.	Hari Jumat menunjukkan penjualan tertinggi pizza sebesar 3.5K sedangkan hari Minggu menunjukkan penjualan pizza yang paling rendah sebesar 2.6K.
 
-Rekomendasi : Meningkatkan kampanye pemasaran kedepan agar tren penjualan meningkat.
+2.	Kategori pizza Classic memiliki penerimaan penjualan dan jumlah terjual tertinggi diikuti Supreme, Veggie, dan terendah Chicken.
 
+3.	Pizza ukuran Large memiliki penjualan paling tinggi berkisar 61.04%.
 
+Top & Bottom
 
-•	Metode pembayaran yang paling populer digunakan adalah credit card.
+1.	The Thai Chicken Pizza memiliki penerimaan penjualan paling besar dan The Big Meat Pizza memiliki penerimaan penjualan paling rendah.
 
-Rekomendasi : Meningkatkan promosi transaksi menggunakan metode pembayaran credit card dengan menambahkan cashback.
-
-
-
-•	Cabang WALM009 di kota Plano memiliki total penjualan paling tinggi dan cabang WALM092 di kota Lake Jackson memiliki total penjualan paling rendah.
-
-Rekomendasi : Cabang dengan penjualan terendah perlu di audit dan analisis lebih lanjut untuk mengetahui penyebabnya.
-
+2.	The Barbecue Chicken Pizza memiliki kontribusi jumlah terjual tertinggi dan The Pepperoni, Mushroom, and Peppers Pizza memiliki kontribusi jumlah terjual terendah.
+  
+3.	The Barbecue Chicken Pizza berkontribusi tinggi pada total pesanan dan The Pepperoni, Mushroom, and Peppers Pizza berkontribusi paling rendah pada total pesanan.
 
 
-•	Kategori produk Food and Beverages memiliki rata-rata rating tertinggi sebesar 7.11 dan kategori Home and Lifestyle memiliki rata-rata rating terendah sebesar 5.7.
+Strategi
+1.	Membuat promosi harian pada hari minggu untuk meningkatkan penjualan dan minat beli pada hari minggu.
 
-Rekomendasi : Kategori produk dengan rating rendah dievaluasi terhadap kualitas produk atau layanan pelanggan pada produk tersebut.
-
-
-
-•	Rata-rata margin keuntungan tertinggi pada kategori produk Food and Beverage.
-
-Rekomendasi : Meningkatkan investasi dan promosi pada kategori Food and Beverage untuk meningkatkan profit. Namun juga diikuti pada kategori produk dengan margin keuntungan rendah.
-
-
-
-•	Produk dengan profit margin sebesar 0.33 memiliki nilai jual yang tinggi dan masih diminati dengan total penjualan paling tinggi. Profit margin tinggi sebesar 0.57 cenderung menghasilkan penjualan yang rendah hal ini dapat terjadinya kemungkinan harga produk terlalu tinggi.
-
-Rekomendasi : Perlu dilakukan analisis dan evaluasi lebih lanjut terkait hubungan margin keuntungan dan total penjualan. 
-
-
-
-
+2.	Mendorong pelanggan untuk membeli pizza ukuran large atau menambahkan topping pada pizza agar meningkatkan penerimaan penjualan dan pelanggan merasa mendapat lebih banyak manfaat.
+	
+3.	Menawarkan paket bundle pada kategori pizza chicken dan drink dengan harga khusus agar mendorong penjualan pizza chicken.
