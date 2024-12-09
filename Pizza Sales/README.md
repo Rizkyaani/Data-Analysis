@@ -7,6 +7,7 @@ TUJUAN
 •	Meningkatkan pembelian dengan nilai lebih tinggi per transaksi
 
 
+
 KPI
 
 •	Jumlah total pesanan sebesar 21K
@@ -20,6 +21,7 @@ KPI
 •	Rata-rata jumlah pesanan sebanyak 2.32 pesanan
 
 
+
 INSIGHT
 
 1.	Hari Jumat menunjukkan penjualan tertinggi pizza sebesar 3.5K sedangkan hari Minggu menunjukkan penjualan pizza yang paling rendah sebesar 2.6K.
@@ -28,6 +30,7 @@ INSIGHT
 
 3.	Pizza ukuran Large memiliki penjualan paling tinggi berkisar 61.04%.
 
+
 Top & Bottom
 
 1.	The Thai Chicken Pizza memiliki penerimaan penjualan paling besar dan The Big Meat Pizza memiliki penerimaan penjualan paling rendah.
@@ -35,6 +38,7 @@ Top & Bottom
 2.	The Barbecue Chicken Pizza memiliki kontribusi jumlah terjual tertinggi dan The Pepperoni, Mushroom, and Peppers Pizza memiliki kontribusi jumlah terjual terendah.
   
 3.	The Barbecue Chicken Pizza berkontribusi tinggi pada total pesanan dan The Pepperoni, Mushroom, and Peppers Pizza berkontribusi paling rendah pada total pesanan.
+
 
 
 REKOMENDASI & STRATEGI
