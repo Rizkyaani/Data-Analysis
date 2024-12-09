@@ -1,4 +1,4 @@
-#Tujuan
+TUJUAN
 
 •	Mengidentifikasi penjualan harian untuk meningkatkan penjualan
 
@@ -7,7 +7,7 @@
 •	Meningkatkan pembelian dengan nilai lebih tinggi per transaksi
 
 
-#KPI
+KPI
 
 •	Jumlah total pesanan sebesar 21K
 
@@ -20,7 +20,7 @@
 •	Rata-rata jumlah pesanan sebanyak 2.32 pesanan
 
 
-#Insight
+INSIGHT
 
 1.	Hari Jumat menunjukkan penjualan tertinggi pizza sebesar 3.5K sedangkan hari Minggu menunjukkan penjualan pizza yang paling rendah sebesar 2.6K.
 
@@ -37,7 +37,7 @@ Top & Bottom
 3.	The Barbecue Chicken Pizza berkontribusi tinggi pada total pesanan dan The Pepperoni, Mushroom, and Peppers Pizza berkontribusi paling rendah pada total pesanan.
 
 
-Strategi
+REKOMENDASI & STRATEGI
 1.	Membuat promosi harian pada hari minggu untuk meningkatkan penjualan dan minat beli pada hari minggu.
 
 2.	Mendorong pelanggan untuk membeli pizza ukuran large atau menambahkan topping pada pizza agar meningkatkan penerimaan penjualan dan pelanggan merasa mendapat lebih banyak manfaat.
